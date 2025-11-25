@@ -64,8 +64,6 @@ Sou um desenvolvedor versátil focado na criação de soluções robustas e func
 
 ### 💻 Destaque dos Meus Projetos
 
-### 💻 Destaque dos Meus Projetos
-
 Minha jornada inclui a exploração de diversas áreas de desenvolvimento.
 
 *   **Formação em curso Full-Cycle:** Para testar minhas habilidades até 2023, decidi seguir tanto a estruturação de tarefas (desde a captação de ideias para a gestão do projeto inicial) quanto as camadas de segurança mais devidamente alocadas. Assim, com o curso [**`Formacao-Angular-Spring-Boot_Udemy`**](https://github.com/Alex-Farias/Formacao-Angular-Spring-Boot_Udemy), aprendi sobre essas expertises e preocupações e, posteriormente, até 2025 venho "brincando" com o conceito dessas funcionalidades com meu outro projeto [**`Ecomerce-simplificado`**](https://github.com/Alex-Farias/Ecomerce-simplificado).
@@ -95,10 +93,6 @@ Minha jornada inclui a exploração de diversas áreas de desenvolvimento.
 ## Full-Cycle Developer & Data Enthusiast
 
 I am a versatile developer focused on creating robust and functional solutions. My main focus is on translating complex requirements into code that is clean, structured, robust, and easy to understand.
-
-### 💻 Featured Projects
-
-My journey includes exploring diverse areas of development.
 
 ### 💻 Featured Projects
 
