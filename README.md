@@ -6,14 +6,15 @@
 
 <br>
 
-## 📈 Estatísticas do GitHub / GitHub Stats
+<!-- not working 2025/11/25 -->
+<!-- ## 📈 Estatísticas do GitHub / GitHub Stats
 <p align="center">
     <img alt="stats" align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=Alex-Farias"/>
     <img alt="langs" align="left" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alex-Farias&layout=compact"/>
 </p>
 
 <br/>
-<br/>
+<br/> -->
 
 ## 🛠️ Habilidades Técnicas / Technical Skills
 
@@ -77,8 +78,6 @@ Minha jornada inclui a exploração de diversas áreas de desenvolvimento.
 *   👯 **Procuro colaborar em:** Projetos de código aberto Full-Cycle/Full-Stack que envolvam captação e utilização de dados de forma prática e inteligente.
 *   💬 **Pergunte-me sobre:** Criação de APIs RESTful, desenvolvimento front-end com TypeScript/Angular e modelagem de dados.
 *   📫 **Como me encontrar:** Fique à vontade para me adicionar ou enviar uma mensagem no [**LinkedIn**](https://linkedin.com/in/alex-farias-nabo) ou me mande um email em [**alexfabreu.trabalhos@gmail.com**](mailto:alexfabreu.trabalhos@gmail.com)
-
-[⬆️ Voltar ao Topo](#olá-sou-alex-farias-👋--hello-im-alex-farias-👋)
 
 <br>
 
