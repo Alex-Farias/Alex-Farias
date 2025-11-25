@@ -1,8 +1,10 @@
 
 # Olá, sou Alex Farias! 👋 / Hello, I'm Alex Farias! 👋
 
-<!-- ⬇️ Seletor de Idiomas ⬇️ -->
-[Click here to read in English!](#en) | [Clique aqui para ler em Português!](#ptbr)
+<p align="center">
+    <!-- ⬇️ Seletor de Idiomas ⬇️ -->
+    [Click here to read in English!](#en) | [Clique aqui para ler em Português!](#ptbr)
+</p>
 
 <br>
 
@@ -43,13 +45,11 @@
   <!-- Fundamentos -->
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5 Badge" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3 Badge" />
-</p>```
+</p>
 
 <br>
 
 ---
-
-<br>
 
 <!-- 
   ==========================================================
@@ -58,7 +58,7 @@
 -->
 <a id="ptbr"></a>
 
-## 🇧🇷 Desenvolvedor Full-Cycle & Entusiasta de Dados
+## Desenvolvedor Full-Cycle & Entusiasta de Dados
 
 Sou um desenvolvedor versátil focado na criação de soluções robustas e funcionais. Meu foco principal reside em transcrever requisitos complexos em um código: limpo, estruturado, robusto e de fácil entendimento.
 
@@ -82,8 +82,6 @@ Minha jornada inclui a exploração de diversas áreas de desenvolvimento.
 <br>
 
 ---
-
-<br>
 
 <!-- 
   ==========================================================
