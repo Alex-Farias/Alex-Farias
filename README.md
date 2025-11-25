@@ -2,8 +2,8 @@
 # Olá, sou Alex Farias! 👋 / Hello, I'm Alex Farias! 👋
 
 <p align="center">
-    <!-- ⬇️ Seletor de Idiomas ⬇️ -->
-    [Click here to read in English!](#en) | [Clique aqui para ler em Português!](#ptbr)
+  <!-- ⬇️ Seletor de Idiomas ⬇️ -->
+  <a href="#en">Click here to read in English!</a> or <a href="#ptbr">Clique aqui para ler em Português!</a>
 </p>
 
 <br>
